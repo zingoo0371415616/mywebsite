@@ -4,7 +4,7 @@
 <head>  
     <meta charset="UTF-8">  
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>فروشگاه حرز</title>  
+    <title>فروشگاه حرزکریمه اهل بیت</title>  
     <style>  
         body {  
             font-family: Arial, sans-serif;  
@@ -94,8 +94,8 @@
 <body>  
 
 <header>  
-    <h1>فروشگاه حرز</h1>  
-    <p>بهترین حرزهای طلایی و جواهرات</p>  
+    <h1>فروشگاه حرز کریمه اهل بیت /مرتضوی</h1>  
+    <p>حرز امام جواد روی پوست آهو</p>  
 </header>  
 
 <nav>  
@@ -107,9 +107,9 @@
 
 <div class="container">  
     <div class="product">  
-        <img src="https://via.placeholder.com/300" alt="حرز طلایی ۱">  
-        <h2>حرز طلایی ۱</h2>  
-        <p>حرزی با طراحی زیبا و خاص.</p>  
+        <img src="https://via.placeholder.com/300" alt="حرز پوست آهو ۱">  
+        <h2>حرز *****</h2>  
+        <p>حرز تابلویی</p>  
         <p class="price">قیمت: ۵۰۰,۰۰۰ تومان</p>  
         <button class="buy-btn">خرید</button>  
     </div>  
